@@ -6,4 +6,5 @@
 | `Harry Jing` | `hcjing`  |    harry   |
 | `Anusha Srivastav` | `srivast3` | anusha |
 | `Zoe Prefontaine` | `zprefont` | zoe |
+| `Riya Salian` | `salian` | riya |
 
