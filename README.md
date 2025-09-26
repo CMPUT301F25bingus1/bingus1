@@ -4,6 +4,6 @@
 | `Yong Lee`   | `yongwook`|  YongLee   |
 | `Jaden Chiu` | `chiu4`   |    jaden   |
 | `Harry Jing` | `hcjing`  |    harry   |
-| 'Anusha Srivastav' | 'srivast3' | anusha |
+| `Anusha Srivastav` | `srivast3` | anusha |
 | `Zoe Prefontaine` | `zprefont` | zoe |
 
