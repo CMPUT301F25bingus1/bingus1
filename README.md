@@ -4,4 +4,5 @@
 | `Yong Lee`   | `yongwook`|  YongLee   |
 | `Jaden Chiu` | `chiu4`   |    jaden   |
 | `Harry Jing` | `hcjing`  |    harry   |
+| 'Anusha Srivastav' | 'srivast3' | anusha |
 
